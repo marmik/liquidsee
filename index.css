@@ -43,6 +43,7 @@ header.black-bg{
 }
 .header-brand{
     max-width: 110px;
+    background-color: transparent;
 }
 .main-nav{
     list-style: none;
